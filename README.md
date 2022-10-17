@@ -610,3 +610,4 @@ https://ultrabug.fr/
 [comparisons expression | Jinja Compat Tests](https://jbmoelker.github.io/jinja-compat-tests/expressions/comparisons/)
 
 [Template Designer Documentation &#8212; Jinja Documentation (3.0.x)](https://jinja.palletsprojects.com/en/3.0.x/templates/)
+# course-note-template

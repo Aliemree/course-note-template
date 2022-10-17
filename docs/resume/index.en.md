@@ -6,9 +6,9 @@ template: main.html
 
 Download 
 
-- [Resume-English](ugur_coruh_en_cv.pdf)
+- [Resume-English](ali_emre_en_cv.pdf)
 
-- [Resume-Turkish](ugur_coruh_tr_cv.pdf)
+- [Resume-Turkish](ali_emre_tr_cv.pdf)
 
 
 === "English"
