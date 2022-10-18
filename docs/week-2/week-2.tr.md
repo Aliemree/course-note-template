@@ -35,7 +35,7 @@ disable-header-and-footer: false
 header-left:
 header-center:
 header-right:
-footer-left: "© Dr. Öğr. Üyesi Uğur CORUH"
+footer-left: "© Ali EMRE"
 footer-center: "License: WTFPL"
 footer-right:
 subparagraph: true

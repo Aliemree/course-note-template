@@ -1,9 +1,9 @@
 # Project information
-site_name: RTEU Course Notes Templates
+site_name: Ali EMRE
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
 site_author: 'Asst. Prof. Dr. Uğur CORUH'
-site_url: 'https://ucoruh.github.io/course-note-template/'
+site_url: 'https://Aliemree.github.io/course-note-template/'
 
 site_description_en: >-
     Course Notes Templates
@@ -13,11 +13,11 @@ site_description_tr: >-
 
 # Repository
 repo_name: 'GitHub'
-repo_url: 'https://github.com/ucoruh/course-note-template'
+repo_url: 'https://github.com/Aliemree/course-note-template'
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2022 Asst. Prof. Dr. Uğur CORUH
+copyright: Copyright &copy; 2019 - 2022 Ali EMRE
 
 #theme:
 #    name: material
@@ -130,21 +130,21 @@ extra:
       analytics: Google Analytics
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/ucoruh
+      link: https://github.com/Aliemree
     - icon: fontawesome/brands/bitbucket
-      link: https://bitbucket.org/ucoruh/
+      link: https://bitbucket.org/Aliemree/
     - icon: fontawesome/regular/compass
       link: https://www.scopus.com/authid/detail.uri?authorId=57218950743
     - icon: fontawesome/regular/id-card
       link: https://dblp.org/pid/230/0394.html
     - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/u/ucoruh/
+      link: https://hub.docker.com/u/Aliemree/
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/my-orcid?orcid=0000-0003-4193-8401
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/ugurcoruh/
+      link: https://www.linkedin.com/in/Aliemre/
     - icon: fontawesome/regular/moon
-      link: https://publons.com/researcher/1540204/ugur-coruh/
+      link: https://publons.com/researcher/1540204/ali-emre/
     - icon: fontawesome/brands/google
       link: https://scholar.google.com/citations?user=KIU4ltMAAAAJ&hl=tr
     - icon: fontawesome/regular/clipboard
@@ -241,7 +241,7 @@ plugins:
   - minify:
       minify_html: false
   #- with-pdf:
-      #author: Dr. Uğur CORUH
+      #author: Ali emre
       #copyright: ANY TEXT
       #
       #cover: false

@@ -11,9 +11,9 @@ paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 header: 'Sample Course Name'
-footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE204 Week-1'
+footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) Week-1'
 title: "Sample Course Name"
-author: "Author: Asst. Prof. Dr. Uğur CORUH"
+author: "Author: Ali EMRE"
 date:
 subtitle: "Sample Course Module Name"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
@@ -35,7 +35,7 @@ disable-header-and-footer: false
 header-left:
 header-center:
 header-right:
-footer-left: "© Asst. Prof. Dr. Uğur CORUH"
+footer-left: "© Ali EMRE"
 footer-center: "License: WTFPL"
 footer-right:
 subparagraph: true
