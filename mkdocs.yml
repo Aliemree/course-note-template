@@ -2,8 +2,8 @@
 site_name: Ali EMRE
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
-site_author: 'Asst. Prof. Dr. Uğur CORUH'
-site_url: 'https://Aliemree.github.io/course-note-template/'
+site_author: 'Ali EMRE'
+site_url: 'https://ucoruh.github.io/course-note-template/'
 
 site_description_en: >-
     Course Notes Templates
@@ -17,7 +17,7 @@ repo_url: 'https://github.com/Aliemree/course-note-template'
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2022 Ali EMRE
+copyright: Copyright &copy; 2019 - 2022 Asst. Prof. Dr. Uğur CORUH
 
 #theme:
 #    name: material
@@ -130,21 +130,21 @@ extra:
       analytics: Google Analytics
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Aliemree
+      link: https://github.com/ucoruh
     - icon: fontawesome/brands/bitbucket
-      link: https://bitbucket.org/Aliemree/
+      link: https://bitbucket.org/ucoruh/
     - icon: fontawesome/regular/compass
       link: https://www.scopus.com/authid/detail.uri?authorId=57218950743
     - icon: fontawesome/regular/id-card
       link: https://dblp.org/pid/230/0394.html
     - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/u/Aliemree/
+      link: https://hub.docker.com/u/ucoruh/
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/my-orcid?orcid=0000-0003-4193-8401
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/Aliemre/
+      link: https://www.linkedin.com/in/ugurcoruh/
     - icon: fontawesome/regular/moon
-      link: https://publons.com/researcher/1540204/ali-emre/
+      link: https://publons.com/researcher/1540204/ugur-coruh/
     - icon: fontawesome/brands/google
       link: https://scholar.google.com/citations?user=KIU4ltMAAAAJ&hl=tr
     - icon: fontawesome/regular/clipboard
@@ -241,7 +241,7 @@ plugins:
   - minify:
       minify_html: false
   #- with-pdf:
-      #author: Ali emre
+      #author: Dr. Uğur CORUH
       #copyright: ANY TEXT
       #
       #cover: false

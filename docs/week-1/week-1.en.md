@@ -1,5 +1,5 @@
 ---
-marp: true
+marp: truea
 theme: default
 style: |
     img[alt~="center"] {
@@ -8,11 +8,15 @@ style: |
     }
 _class: lead
 paginate: true
-backgroundColor: #fff
+backgroundColor: #ddd
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 header: 'Sample Course Name'
 footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) Week-1'
 title: "Sample Course Name"
+<<<<<<< HEAD
+=======
+color title: "blue"
+>>>>>>> 3601e9297d1f09474b02b11cbcc3c55dcc4cf660
 author: "Author: Ali EMRE"
 date:
 subtitle: "Sample Course Module Name"
@@ -35,7 +39,11 @@ disable-header-and-footer: false
 header-left:
 header-center:
 header-right:
+<<<<<<< HEAD
 footer-left: "© Ali EMRE"
+=======
+footer-left: "© ALi EMRE"
+>>>>>>> 3601e9297d1f09474b02b11cbcc3c55dcc4cf660
 footer-center: "License: WTFPL"
 footer-right:
 subparagraph: true
@@ -46,7 +54,7 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color:  brown-->
 
 <!-- paginate: false -->
 
@@ -80,7 +88,7 @@ Download [DOC](week-1.en.md_doc.pdf), [SLIDE](week-1.en.md_slide.pdf), [PPTX](we
 ### Sample Topic
 
 - **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
   - when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 
     - but also the leap into electronic typesetting, remaining essentially unchanged. 
       - It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
@@ -90,16 +98,16 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ### Sample Images-1
 
 - **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
-![center h:400px](assets/sample-1.png)
+![center h:400px](file:///C:/Users/Ali/Downloads/1608903852_stm-yeni-uzay-cagi-2.pdf)
 
 ---
 
 ### Sample Images-2
 
 - **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
 ![bg right:50% h:400px](assets/sample-1.png)
 
@@ -108,7 +116,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ### Sample Images-3
 
 - **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
 ![bg left:50% h:400px](assets/sample-1.png)
 
@@ -117,7 +125,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ### Sample Images-4
 
 - **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
 ![bg h:400px](assets/sample-1.png)
 
@@ -126,7 +134,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ### Sample Images-5
 
 - **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
 ![bg left:50% h:800px](assets/sample-1.png)
 ![bg left:50% h:800px](assets/sample-2.png)
@@ -136,14 +144,14 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ### Sample Images-6
 
 - **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
 ![bg left:50% h:300px](assets/sample-1.png)
 ![bg left:50% h:500px](assets/sample-2.png)
 
 ---
 
-###  Latex Sample-1
+### Latex Sample-1
 
 $$
 \begin{align}
@@ -224,7 +232,6 @@ $$
 - https://www.hindawi.com/journals/scn/2018/6563089/ 
 - https://dl.acm.org/doi/abs/10.1145/3410352.3410836
 - https://www.sciencedirect.com/science/article/abs/pii/S2214212621002623 
-
 
 ---
 

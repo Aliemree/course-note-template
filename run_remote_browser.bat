@@ -1,1 +1,1 @@
-start "" "https://ucoruh.github.io/course-note-template/"
+start "" "https://aliemree.github.io/course-note-template/"

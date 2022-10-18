@@ -13,7 +13,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 header: 'Örnek Ders Adı'
 footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE204 Hafta-2'
 title: "Örnek Ders Adı"
-author: "Yazar: Dr. Öğr. Üyesi Uğur CORUH"
+author: "Yazar: Ali EMRE"
 date:
 subtitle: "Örnek Ders Modülü Adı"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
@@ -35,7 +35,11 @@ disable-header-and-footer: false
 header-left:
 header-center:
 header-right:
+<<<<<<< HEAD
 footer-left: "© Ali EMRE"
+=======
+footer-left: "© Ali EMRE "
+>>>>>>> 3601e9297d1f09474b02b11cbcc3c55dcc4cf660
 footer-center: "License: WTFPL"
 footer-right:
 subparagraph: true
